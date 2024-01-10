@@ -21,4 +21,4 @@ ISTRUZIONI SU COME UTILIZZARE L'APPLICAZIONE:
 -apri la cartella App_Barro sulla home e apri un terminale con questa directory (dentro la cartella tasto dx>Open in terminal)
 -digita sul nuovo terminale "./esecuzione.sh": l'applicazione ora viene eseguita. Appare un messaggio sul terminale di download del file di dati avvenuto con successo e appare sullo schermo il primo grafico.
 -cliccare la x in alto a destra per chiudere il primo grafico e in automatico appare il secondo. Iterare il procedimento fino all'esaurimento dei grafici.
-Quando si chiude un grafico l'applicazione lo salva nella cartella dunque una volta chiusi tutti i grafici potremo trovarli tutti salvati nella cartella App_Barro con i nomi "fig_1.png", "fig_2.png", "fig_3.png", "fig_4.png".
+Quando l'app crea un grafico lo salva nella cartella dunque una volta chiusi tutti i grafici potremo trovarli salvati nella cartella App_Barro con i nomi "fig_1.png", "fig_2.png", "fig_3.png", "fig_4.png".
