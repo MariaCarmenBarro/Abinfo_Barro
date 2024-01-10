@@ -10,6 +10,6 @@ else
     echo "Errore durante il download del file Nemo_6670.dat."
 fi
 
-# Esegue il programma Python passando il nome del file come input
+# Esegue lo script Python passando il nome del file come input
 python3 analisi.py Nemo_6670.dat
 
