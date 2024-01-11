@@ -6,9 +6,9 @@ DESCRIZIONE DEI FILE
 
 - esecuzione.sh: si occupa dell'esecuzione dell'applicazione. Esso scarica da Github il file Nemo_6670.dat, stampa sul terminale un messaggio per controllare se il download ha avuto successo e infine esegue analisi.py dando Nemo_6670.dat come input.
 
-- analisi.py: si occupa dell'analisi dei dati di Nemo_6670.dat. Prende come input il Nemo_6670.dat dato da esecuzione.sh, apre il file e immagazzina i dati di Magnitudine assoluta, codice colore, età, magnetizzazione e massa delle stelle creando un array per ognuna di queste grandezze fisiche. Riordina gli array di dati in sottogruppi divisi in base all'età delle stelle e produce quattro grafici che vengono proiettati sullo schermo e contemporaneamente salvati nella cartella App_Barro all'esecuzione dell'applicazione. 
+- analisi.py: si occupa dell'analisi dei dati di Nemo_6670.dat. Prende come input il Nemo_6670.dat dato da esecuzione.sh, apre il file e immagazzina i dati di Magnitudine assoluta, codice colore, età, magnetizzazione e massa delle stelle creando un array per ognuna di queste grandezze fisiche. Riordina gli array di dati in sottogruppi divisi in base all'età delle stelle e produce quattro grafici che vengono proiettati sullo schermo e contemporaneamente salvati nella cartella App_Barro all'esecuzione dell'applicazione.
 I grafici creati sono: 
-- Diagramma Magnitudine assoluta-indice a colore (in leggenda si leggono gli intervalli di età in cui sono stati divisi i dati con il colore con cui vengono rappresentati. Ogni sottogruppo ha un colore diverso); 
+> Diagramma Magnitudine assoluta-indice a colore (in leggenda si leggono gli intervalli di età in cui sono stati divisi i dati con il colore con cui vengono rappresentati. Ogni sottogruppo ha un colore diverso); 
 - Istogramma della metallicità delle stelle(Le stelle sono state divise in tre popolazioni in base a tre diverse fasce d'età e in figura sono rappresentati gli istogrammi relativi ai sottogruppi con diverso colore. In figura ci sono anche i valori di media e mediana relativi a ogni sottogruppo);
 - Plot della metallicità in funzione della massa(Le stelle sono state divise nelle stesse tre popolazioni del grafico precedente e il colore dei sottogruppi è lo stesso del grafico precedente);
 - Istogramma 2D per la relazione tra metallicità e massa.
