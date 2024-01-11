@@ -14,7 +14,7 @@ Plot della metallicità in funzione della massa(Le stelle sono state divise nell
 Istogramma 2D per la relazione tra metallicità e massa.
 
 ISTRUZIONI SU COME UTILIZZARE L'APPLICAZIONE:
--scarica installazione.sh, esecuzione.sh e analisi.py dal repository
+- scarica installazione.sh, esecuzione.sh e analisi.py dal repository
 -apri la cartella dei download dove sono stati scaricati i tre script e apri un terminale bash che ha la stessa directory della cartella dei download(dentro la cartella dei download tasto dx>Open in terminal)
 -digita "chmod +x" installazione.sh da terminale per dare il permesso di esecuzione a esecuzione.sh
 -digita "./installazione.sh" da terminale: si è creata una cartella App_Barro sulla Home e appare un messaggio di installazione andata a buon fine sul terminale. L'app è installata.
