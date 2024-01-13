@@ -22,7 +22,7 @@ Istogramma 2D per la relazione tra metallicità e massa.
 ISTRUZIONI SU COME UTILIZZARE L'APPLICAZIONE:
 - scarica installazione.sh, esecuzione.sh e analisi.py dal repository
 - apri la cartella dei download dove sono stati scaricati i tre script e apri un terminale bash che ha la stessa directory della cartella dei download(dentro la cartella dei download tasto dx>Open in terminal)
-- digita "chmod +x" installazione.sh da terminale per dare il permesso di esecuzione a esecuzione.sh
+- digita "chmod +x" installazione.sh da terminale per dare il permesso di esecuzione a installazione.sh
 - digita "./installazione.sh" da terminale: si è creata una cartella App_Barro sulla Home e appare un messaggio di installazione andata a buon fine sul terminale. L'app è installata.
 - apri la cartella App_Barro sulla home e apri un terminale con questa directory (dentro la cartella tasto dx>Open in terminal)
 - digita sul nuovo terminale "./esecuzione.sh": l'applicazione ora viene eseguita. Appare un messaggio sul terminale di download del file di dati avvenuto con successo e appare sullo schermo il primo grafico.
