@@ -1,5 +1,6 @@
 # Abinfo_Barro
 Nel repository sono presenti gli script bash(installazione.sh e esecuzione.sh) e lo script python(analisi.py) necessari all'installazione e all'esecuzione dell'applicazione. Di seguito riporto una breve descrizione dei file e le istruzioni per installazione e esecuzione dell'applicazione.
+Ho aggiunto anche il Jupyter notebook analisi.ipynb corrispondente allo script analisi.py in caso si volesse leggere il codice direttamente dal notebook. 
 
 DESCRIZIONE DEI FILE
 - installazione.sh: si occupa dell'installazione dell'applicazione. Esso crea una directory chiamata App_Barro sulla home e copia all'interno esecuzione.sh e analisi.py. Attribuisce il permesso di esecuzione a esecuzione.sh, aggiunge la nuova directory al path di sistema e al pythonpath e, infine, stampa su terminale un messaggio di completamento dell'installazione.
@@ -27,5 +28,3 @@ ISTRUZIONI SU COME UTILIZZARE L'APPLICAZIONE:
 - digita sul nuovo terminale "./esecuzione.sh": l'applicazione ora viene eseguita. Appare un messaggio sul terminale di download del file di dati avvenuto con successo e appare sullo schermo il primo grafico.
 - cliccare la x in alto a destra per chiudere il primo grafico e in automatico appare il secondo. Iterare il procedimento fino all'esaurimento dei grafici.
 Quando l'app crea un grafico lo salva nella cartella dunque una volta chiusi tutti i grafici potremo trovarli salvati nella cartella App_Barro con i nomi "fig_1.png", "fig_2.png", "fig_3.png", "fig_4.png".
-
-Ho aggiunto anche il Jupyter notebook analisi.ipynb corrispondente allo script analisi.py in caso si volesse leggere il codice direttamente dal notebook. 
