@@ -27,3 +27,5 @@ ISTRUZIONI SU COME UTILIZZARE L'APPLICAZIONE:
 - digita sul nuovo terminale "./esecuzione.sh": l'applicazione ora viene eseguita. Appare un messaggio sul terminale di download del file di dati avvenuto con successo e appare sullo schermo il primo grafico.
 - cliccare la x in alto a destra per chiudere il primo grafico e in automatico appare il secondo. Iterare il procedimento fino all'esaurimento dei grafici.
 Quando l'app crea un grafico lo salva nella cartella dunque una volta chiusi tutti i grafici potremo trovarli salvati nella cartella App_Barro con i nomi "fig_1.png", "fig_2.png", "fig_3.png", "fig_4.png".
+
+Ho aggiunto anche il Jupyter notebook analisi.ipynb corrispondente allo script analisi.py in caso si volesse leggere il codice direttamente dal notebook. 
